@@ -1,0 +1,13 @@
+RM	Nome	Media
+7978	Jose	10
+4426	Laura	2,5
+6309	Carlos	8,3
+4155	Fatima	1
+527	Felipe	5
+7011	Pedro	4
+3294	Julia	7,5
+9395	Simone	7
+5481	Isabel	1
+7374	Paulo	6
+2340	Maria	8
+5258	Jonas	6

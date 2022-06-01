@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1592250202 source:c:\users\redator flux-1\desktop\n2020\avalia\main.cpp
+	<iostream>
+	<locale>
+	<stdio.h>
+	<stdlib.h>
+	<cstring>
+	<array>
+

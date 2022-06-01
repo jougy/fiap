@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1589412195 source:d:\patricia\codeblocks\buscaexaustivaarq\main.cpp
+	<iostream>
+	<locale>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+

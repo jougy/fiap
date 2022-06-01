@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1590600634 source:d:\patricia\codeblocks\ordena_insertionsort\main.cpp
+	<iostream>
+	<locale>
+	<stdio.h>
+	<stdlib.h>
+

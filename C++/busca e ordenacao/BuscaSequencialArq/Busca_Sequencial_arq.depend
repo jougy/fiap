@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1589413123 source:d:\patricia\codeblocks\buscasequencialarq\main.cpp
+	<iostream>
+	<locale>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+

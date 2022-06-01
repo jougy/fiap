@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1547353950 source:c:\users\redator flux-1\desktop\testes de c++\teste dado\main.cpp
+	<iostream>
+	<string>
+	<iomanip>
+	<ctime>
+	<cstdlib>
+	<cmath>
+

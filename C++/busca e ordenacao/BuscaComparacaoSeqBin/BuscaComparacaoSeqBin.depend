@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1589389296 source:d:\patricia\codeblocks\buscacomparacaoseqbin\main.cpp
+	<iostream>
+	<locale>
+	<stdio.h>
+	<stdlib.h>
+

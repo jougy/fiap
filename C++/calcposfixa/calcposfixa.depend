@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1586737965 source:c:\users\redator flux-1\desktop\testes de c++\calcposfixa\main.cpp
+	<stdlib.h>
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<locale>
+	<string>
+	<vector>
+

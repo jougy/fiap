@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1589378658 source:d:\patricia\codeblocks\buscabinariaarq\main.cpp
+	<iostream>
+	<locale>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1605840479 source:c:\users\redator flux-1\desktop\nova pasta\irrigadsrpt21\main.cpp
+	<iostream>
+	<locale>
+	<stdlib.h>
+	"TipoABBSensor.h"
+	"TipoFilaCoordenadas.h"
+
+1605756824 c:\users\redator flux-1\desktop\nova pasta\irrigadsrpt21\tipoabbsensor.h
+
+1605838316 c:\users\redator flux-1\desktop\nova pasta\irrigadsrpt21\tipofilacoordenadas.h
+	<cstring>
+
